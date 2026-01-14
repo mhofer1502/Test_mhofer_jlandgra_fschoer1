@@ -1,0 +1,6 @@
+git clone https://github.com/mhofer1502/Test_mhofer_jlandgra_fschoer1
+cd .\Test_mhofer_jlandgra_fschoer1\
+git add fschoer1.txt
+git commit -m "fschoer1.txt added"
+git push
+
